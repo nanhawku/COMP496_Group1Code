@@ -8,6 +8,7 @@
 - HB_icon copy.png
 
 ## Steps for Opening Web UI
-1. Run `cvd_risk_predictor.py`
-1. Run api_server.py
-2. Open `riskassessment.html`, then press `Go Live` if in VS Code
+1. Run `Cardiovascular_Disease_Prediction_with_Explainable_AI_Last.ipynb`
+2. Run `cvd_risk_predictor.py`
+3. Run api_server.py
+4. Open `riskassessment.html`, then press `Go Live` if in VS Code
